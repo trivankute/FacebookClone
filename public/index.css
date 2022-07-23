@@ -1,0 +1,16 @@
+:root {
+    --navbar-height:56px;
+    --navbar-color-dark:#242526;
+    --background-dark:#242526;
+    --border-color:rgba(0, 0, 0, 0.2);
+    --icon-color:#B0B3B8;
+    --text-color:#B0B3B8;
+    --background-icon:#3A3B3C;
+    --navbar-search-width-unclicked:240px;
+    --navbar-search-width-clicked:252px;
+    --primary-text: #E4E6EB;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
