@@ -20,6 +20,7 @@ export default function Nabbar()
                 </svg>
                 </label>
                 <input placeholder="Tìm kiếm trên Facebook" id={styles.navbar_search_input}/>
+                {/* Halo minh la Chao day */}
             </div>
         </div>
     )
